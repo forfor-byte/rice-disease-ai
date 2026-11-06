@@ -26,7 +26,8 @@
 ## ⚙️ 运行指南
 1. 克隆本仓库到本地：
    ```bash
-   git clone https://gitee.com/lyb572006/rice-disease-ai.git
+   git clone https://github.com/forfor-byte/rice-disease-ai.git
+   cd rice-disease-ai
 ```
 2. 安装依赖环境（建议使用 Python 3.8+）：
    ```bash
