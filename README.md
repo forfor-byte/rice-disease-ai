@@ -24,12 +24,17 @@
 3. **GUI 交互逻辑设计**：实现了数据与界面的双向绑定，用户无需手动输入路径，通过鼠标点击即可完成图片、文件夹、视频和摄像头的切换与结果追溯。
 
 ## ⚙️ 运行指南
-1. 克隆本仓库到本地：
+1. **克隆本仓库到本地**
    ```bash
    git clone https://github.com/forfor-byte/rice-disease-ai.git
    cd rice-disease-ai
-```
-2. 安装依赖环境（建议使用 Python 3.8+）：
+
+2. **安装依赖环境**
+   建议使用 Python 3.8+ 环境，运行以下命令安装所需依赖包：
    ```bash
    pip install ultralytics opencv-python pillow numpy
-```
+
+3. **启动系统**
+   ```bash
+   python main.py
+   ```
